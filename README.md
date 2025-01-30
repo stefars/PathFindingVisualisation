@@ -14,6 +14,14 @@ CG Project, Path Finding Visualisation
 
 -Reset Position | Resets flag and robot to the original position
 
+To change the map, simply modify the filepath in the class XMLParser in the function getPolygons.
+
+Available examples:
+"polygons"
+"polygons2"
+"polygons3"
+"squareTest"
+
 
 
 
